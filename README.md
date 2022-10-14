@@ -2,5 +2,5 @@
 mvn clean install
 
 # gRPC Server Port
-Add the grpc port to your application.properties
-grpc.port=8084
+Change the gRPC server port in the application.properties. 
+For instance (grpc.port=8084)
