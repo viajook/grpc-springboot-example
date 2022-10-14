@@ -1,7 +1,6 @@
-# grpc-springboot-example
+# Compile with:
+mvn clean install
 
-Compile with: mvn clean install
-
-# grpc.port
+# gRPC Server Port
 Add the grpc port to your application.properties
 grpc.port=8084
